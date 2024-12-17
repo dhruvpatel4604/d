@@ -1,4 +1,4 @@
 # d
 git repo.
 <br>
-author - Dhruv patel
+author - Dhruv (patel)
